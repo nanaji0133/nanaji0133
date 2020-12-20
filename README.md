@@ -3,6 +3,8 @@
 <!--
 **nanaji0133/nanaji0133** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+Just A Programmer/Developer... Objects, Functions, and DataTypes, Oh My!
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
